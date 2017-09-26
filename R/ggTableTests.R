@@ -1,8 +1,9 @@
 library(tidyverse)
 library(xtable)
 
+
+# Creates the R structure
 ggTable <- structure(list(), class = "ggTableObject")
-class(ggTable)
 
 # Create dummy data
 salesData <- tibble(District=c(1,1,1,2,2,2),

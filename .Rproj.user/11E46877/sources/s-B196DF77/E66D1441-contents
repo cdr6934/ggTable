@@ -2,7 +2,7 @@ library(tidyverse)
 library(xtable)
 
 
-# Creates the R structure 
+# Creates the R structure
 ggTable <- structure(list(), class = "ggTableObject")
 
 # Create dummy data
