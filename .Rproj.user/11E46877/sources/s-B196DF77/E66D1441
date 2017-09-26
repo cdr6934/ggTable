@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1506465605146.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E66D1441",
+    "lastKnownWriteTime" : 1506466510,
+    "last_content_update" : 1506466558077,
+    "path" : "~/Documents/r-sessions/ggTable/R/ggTableTests.R",
+    "project_path" : "R/ggTableTests.R",
+    "properties" : {
+        "cursorPosition" : "11,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
